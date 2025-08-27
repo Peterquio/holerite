@@ -17,7 +17,7 @@ Ela faz o cálculo da soma de várias instâncias de ganhos e descontos. Depois 
 5. Após calcular, o resultado dos valores descontados em IRRF e INSS e o valor de salário líquido serão demonstrados;  
   
 ## Interface  
-![Print da Tela](docs/screenshot.png)  
+![Print da Tela](screenshot.png)  
 
 ## Sobre o Autor  
 Desenvolvido por Petérquio - dfmorgs@gmail.com  
